@@ -8,7 +8,7 @@ I'm Raja
 
 <h2>💻 I'm Currently Learning:</h2>
 
-- Power BI
+- Apache Spark
 - Snowflake
 - Azure Databricks
 - SQL

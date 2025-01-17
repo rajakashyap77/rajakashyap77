@@ -2,7 +2,7 @@
 
 I'm Raja
 
-- <i>Currently:</i> Programmer Analyst trainee at Cognizant
+- <i>Currently:</i> Programmer Analyst at Cognizant
 - Actively Seeking Job opportunities
 - Open to collaborate
 
